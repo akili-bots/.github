@@ -21,6 +21,6 @@ akili-channel https://github.com/akili-bots/akili-channel
 
 more to follow
 
-The bots use DyDx and will needs certain keys to the exchange. For instructions on how to get your keys for this bot, take a look here https://twitter.com/ChrisJangita/status/1593531663597723648
+The bots use DyDx and will needs certain keys to the exchange. For instructions on how to get your keys for these bots, take a look here https://twitter.com/ChrisJangita/status/1593531663597723648
 
 Here's my afiliate link to DyDx for a 40% discount. I'd appreciate https://dydx.exchange/r/JUDCLWBC
