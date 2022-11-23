@@ -8,9 +8,7 @@ This, as with all projects was born out of frustration on the lack of features w
 
 Let's get the usual out of the way...
 
-***DISCLAIMER
-
-This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.***
+***DISCLAIMER: This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.***
 
 Bots are
 
