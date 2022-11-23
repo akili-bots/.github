@@ -13,8 +13,11 @@ Let's get the usual out of the way...
 Bots are
 
 akili-grid https://github.com/akili-bots/akili-grid
+
 akili-martingale https://github.com/akili-bots/akili-martingale 🔥
+
 akili-channel https://github.com/akili-bots/akili-channel
+
 
 more to follow
 
