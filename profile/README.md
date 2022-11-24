@@ -1,5 +1,7 @@
 # Welcome to akili-bots!
 
+[![Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/+9F0CZj8emLc2YTY0)
+
 ### After the FTX saga I'm moving 100% defi - so, reprogramming all my bots to work exclusively with dydx
 
 Jambo! and welcome! These are non opinionated trading bots using various strategies to trade crypto assets. The word **akili** means brain or mind in Swahili. The objective here is to make it the most intelligent bot in existence that has as many advanced features as possible, but which at the same time can be used by your typical crypto trader with basic experience.
