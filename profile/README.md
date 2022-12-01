@@ -1,4 +1,4 @@
-<img align="left" src="https://dydx.exchange/logo.svg">
+<img align="right" src="https://dydx.exchange/logo.svg">
 
 # Welcome to akili-bots!
 
