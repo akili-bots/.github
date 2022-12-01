@@ -1,3 +1,4 @@
+<img align="left" src="https://dydx.exchange/logo.svg">
 # Welcome to akili-bots!
 
 [![Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/+9F0CZj8emLc2YTY0)
