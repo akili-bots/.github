@@ -15,9 +15,13 @@ Let's get the usual out of the way...
 ***DISCLAIMER: This software is for educational purposes only. Do not risk money which you are afraid to lose. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS.***
 
 Bots are
+
 🆕akili-tradingview https://github.com/akili-bots/akili-tradingview
+
 🔥akili-grid https://github.com/akili-bots/akili-grid 
+
 📈akili-martingale https://github.com/akili-bots/akili-martingale 
+
 📈akili-channel https://github.com/akili-bots/akili-channel
 
 more to follow
