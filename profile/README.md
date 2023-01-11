@@ -22,8 +22,6 @@ Working bots are:
 
 📈akili-martingale https://github.com/akilibots/akili-martingale 
 
-📈
-
 in the kitchen
 
 🍴akili-tradingview https://github.com/akilibots/akili-tradingview
