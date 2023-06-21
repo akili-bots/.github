@@ -22,11 +22,13 @@ Working bots are:
 
 📈akili-martingale https://github.com/akilibots/akili-martingale 
 
+📈akili-tradingview https://github.com/akilibots/akili-tradingview
+
 in the kitchen
 
-🍴akili-tradingview https://github.com/akilibots/akili-tradingview
-
 🍴akili-channel https://github.com/akilibots/akili-channel
+
+🍴akili-dca https://github.com/akilibots/akili-dca
 
 more to follow
 
