@@ -1,3 +1,4 @@
+
 <img align="right" src="https://dydx.exchange/logo.svg">
 
 # Welcome to akili-bots 🤖
@@ -5,6 +6,22 @@
 [![Telegram](https://badges.aleen42.com/src/telegram.svg)](https://t.me/+9F0CZj8emLc2YTY0)
 
 ### After the FTX saga I'm moving 100% defi - so, reprogramming all my bots to work exclusively with dYdX
+
+### UPDATE: akilibots will now have a closed source commercial version in addition to this open source version.
+
+The differences are
+Open Source|Closed Commercial |
+--|--|
+Can connect only to DyDx exchange|Can connect to other exchanges |
+Security is largely handled by you|Security handled by akilibots team
+Needs coding skills to use |No development skills needed
+Available as scripts|Available on web and mobile apps
+Support from community|Support from community and akilibots team
+Spotty maintenance (for now)|247/365 maintenance
+Free | Paid🙂
+Non opinionated (you can do really risky stuff)|Has some loss/risky protection (which can be disabled)
+
+
 
 Jambo! and welcome! These are non opinionated trading bots using various strategies to trade crypto assets. The word **akili** means brain or mind in Swahili. The objective here is to make it the most intelligent bot in existence that has as many advanced features as possible, but which at the same time can be used by your typical crypto trader with basic experience.
 
